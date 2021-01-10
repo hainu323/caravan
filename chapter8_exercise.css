@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+.instagram-box{
+  widows: 100%;
+  padding-top:20px;
+  background-size:cover;
+  background-position:center;
+  padding-bottom:20px;
+
+
+}.instagram-box:nth-child(1){
+  background-color: #f3f3f3;
+}
+
+.instagram-box:nth-child(3){
+  background-color: #f3f3f3;
+}
+.instagram-box:nth-child(5){
+  background-color: #f3f3f3;
+}
+.instagram-box:nth-child(7){
+  background-color: #f3f3f3;
+}
